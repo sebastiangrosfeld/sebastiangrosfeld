@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am a second-year student in applied computer science.
 I constantly improve my coding skills through many projects in my classes at the Warsaw University of Technology.
@@ -13,7 +13,8 @@ I have basic experience with technologies:
 - Microsoft Azure
 - Linux
 
-
+In the future, I'm going to learn Spring framework.
+I'm looking for a job.
 
 <!--
 **sebastiangrosfeld/sebastiangrosfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
