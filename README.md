@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I am a second-year student in applied computer science.
+I constantly improve my coding skills through many projects in my classes at the Warsaw University of Technology.
+I have basic experience with technologies:
+
+- C/C++
+- Java/JavaFx
+- Database with MsSQL
+- Python for DataScientist(NumPy, Pandas and other)
+- Git/Azure DevOps
+- Scrum
+- Microsoft Azure
+- Linux
+
+
+
 <!--
 **sebastiangrosfeld/sebastiangrosfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
