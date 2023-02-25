@@ -8,13 +8,16 @@ I have basic experience with technologies:
 - Java/JavaFx
 - Database with MsSQL
 - Python for DataScientist(NumPy, Pandas and other)
-- Git/Azure DevOps
+- Git/Azure DevOps/Gradle
 - Scrum
-- Microsoft Azure
+- Microsoft Azure(touched)
 - Linux
+- Spring(In progress)
+- JavaScript(In progress)
+- Angular,TypeScript(In progress)
 
-In the future, I'm going to learn Spring framework.
-I'm looking for a job.
+I am currently in the process of developing my first serious web application.
+I'm looking for a job/intership.
 
 <!--
 **sebastiangrosfeld/sebastiangrosfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
