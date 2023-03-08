@@ -17,7 +17,7 @@ I have basic experience with technologies:
 - Angular,TypeScript(In progress)
 
 I am currently in the process of developing my first serious web application.
-I'm looking for a job/intership.
+I'm looking for a job/internship.
 
 <!--
 **sebastiangrosfeld/sebastiangrosfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
