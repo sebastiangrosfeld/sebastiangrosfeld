@@ -5,14 +5,15 @@ I constantly improve my coding skills through many projects in my classes at the
 I have basic experience with technologies:
 
 - C/C++
-- Java/JavaFx
-- Database with MsSQL
+- Java
+- JavaFx
+- Database with MsSQL/MySQL
 - Python for DataScientist(NumPy, Pandas and other)
 - Git/Azure DevOps/Gradle
 - Scrum
 - Microsoft Azure(touched)
-- Linux
-- Spring(In progress)
+- Linux/Computer Networks
+- Spring/Spring Boot(In progress)
 - JavaScript(In progress)
 - Angular,TypeScript(In progress)
 
