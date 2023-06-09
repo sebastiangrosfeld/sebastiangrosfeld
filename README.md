@@ -12,7 +12,7 @@ I have basic experience with technologies:
 - Git/Azure DevOps/Gradle
 - Scrum
 - Microsoft Azure(touched)
-- Linux/Computer Networks
+- Linux/Computer Networks (Basic)
 - Spring/Spring Boot(In progress)
 - JavaScript(In progress)
 - Angular,TypeScript(In progress)
