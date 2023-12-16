@@ -5,7 +5,7 @@ I constantly improve my coding skills through many projects in my classes at the
 I have basic experience with technologies:
 
 - C/C++
-- Java
+- Java (also Project Reactor)
 - JavaFx
 - Database with MsSQL/MySQL
 - Python for DataScientist(NumPy, Pandas and other)
