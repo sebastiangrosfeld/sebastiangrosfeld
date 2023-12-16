@@ -12,7 +12,7 @@ I have basic experience with technologies:
 - Azure DevOps/Atlassian
 - Git
 - Maven/Gradle
-- SCRUM (SCRUM MAster role in 1 year team project on the project classes)
+- SCRUM (SCRUM Master role in 1 year team project on the project classes)
 - Modeling diagrams in UML and BPMN 
 - Microsoft Azure(touched)
 - Linux/Computer Networks (Basic)
