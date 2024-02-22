@@ -7,7 +7,7 @@ I have basic experience with technologies:
 - C/C++
 - Java (also Project Reactor)
 - JavaFx
-- Database with MsSQL/MySQL
+- Database with MsSQL/MySQL/PostgreSQL
 - Python for DataScientist(NumPy, Pandas and other)
 - Azure DevOps/Atlassian
 - Git
