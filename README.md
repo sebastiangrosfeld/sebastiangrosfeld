@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a third-year student in applied computer science.
+I am a fourth-year student in applied computer science.
 I constantly improve my coding skills through many projects in my classes at the Warsaw University of Technology and at the work.
 I have basic experience with technologies:
 
