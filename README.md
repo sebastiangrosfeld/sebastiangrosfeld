@@ -20,7 +20,7 @@ I have basic experience with technologies:
 - JavaScript (Basic)
 - Angular,TypeScript (Basic)
 
-During my 3 years of study, I was involved in the development of many minor projects based on various technologies including applications containing an extensive backend with security and a graphical user interface. I also acquired actual commercial experience while being employed part-time at Samsung Eletronics.  
+During my 4 years of study, I was involved in the development of many minor projects based on various technologies including applications containing an extensive backend with security and a graphical user interface. I also acquired actual commercial experience while being employed part-time at Samsung Eletronics.  
 
 <!--
 **sebastiangrosfeld/sebastiangrosfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
